@@ -10,6 +10,7 @@
 .navbar-style{
     box-shadow: 0 5px 10px #efefef;
     text-transform: uppercase;
+    z-index: 9999;
 }
 
 .logo{
