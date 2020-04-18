@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     text-align: center;
-    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(images/feedback.jpg);
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(feedback.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
@@ -83,11 +83,13 @@ form .submit a:hover{
 
 .header{
     height: 50;
+    z-index:9999;
 }
 
 .navbar-style{
     box-shadow: 0 5px 10px;
     text-transform: uppercase;
+    z-index:9999;
 }
 
 .logo{
