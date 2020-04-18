@@ -84,6 +84,8 @@ form .submit a:hover{
 .header{
     height: 50;
     z-index:9999;
+    background-color:white;
+    opacity:0.5;
 }
 
 .navbar-style{
